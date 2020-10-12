@@ -1,1 +1,3 @@
 # portfolio-optim
+
+A simple example of how linear programming using Julia can be applied to a portfolio optimization problem where the objective is to maximize monthly dividend income...
